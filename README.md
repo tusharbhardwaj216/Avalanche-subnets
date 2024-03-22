@@ -1,6 +1,6 @@
 # **ERC20 and Vault Contracts**
 
-This repository contains two Solidity smart contracts: `ERC20` and `Vault`. Below, you'll find a brief description of each contract and its functionality.
+Avalanche Subnets are a powerful tool for building and managing decentralized applications within the Avalanche network, and represent an important step forward in the evolution of blockchain technology 🚀 This repository contains two Solidity smart contracts: `ERC20` and `Vault`. Below, you'll find a brief description of each contract and its functionality.
 
 ## **ERC20 Contract**
 
